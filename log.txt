@@ -1,0 +1,48 @@
+ INFO   28 Jul 2019 22:44:57 [http-bio-8080-exec-9]  (ConnectionOracle.java:33) - Connection Done successfully
+ INFO   28 Jul 2019 22:44:57 [http-bio-8080-exec-9]  (Pr_BoletasLogSearch.java:70) - Se ejecutó sp buscar registro
+ INFO   28 Jul 2019 22:48:03 [http-bio-8080-exec-9]  (ConsultaWS.java:126) - Documento: 96480541 Encontrado en WS
+ INFO   28 Jul 2019 22:48:04 [http-bio-8080-exec-9]  (ConnectionOracle.java:33) - Connection Done successfully
+ INFO   28 Jul 2019 22:48:04 [http-bio-8080-exec-9]  (Pr_BoletasLogInsert.java:38) - Se han insertado nuevos registros de impresión en la BD
+ INFO   28 Jul 2019 23:01:09 [http-bio-8080-exec-9]  (ConsultaWS.java:124) - Documento:  No encontado
+ INFO   28 Jul 2019 23:01:49 [http-bio-8080-exec-7]  (ConsultaWS.java:124) - Documento: eqw No encontado
+ INFO   28 Jul 2019 23:03:18 [http-bio-8080-exec-6]  (ConsultaWS.java:124) - Documento: asddasas No encontado
+ INFO   28 Jul 2019 23:04:22 [http-bio-8080-exec-8]  (ConsultaWS.java:124) - Documento: qwe No encontado
+ INFO   28 Jul 2019 23:04:30 [http-bio-8080-exec-7]  (ConsultaWS.java:124) - Documento: 2313qdwqw No encontado
+ INFO   28 Jul 2019 23:09:56 [http-bio-8080-exec-3]  (ConsultaWS.java:124) - Documento: 12321 No encontado
+ INFO   28 Jul 2019 23:10:12 [http-bio-8080-exec-3]  (ConsultaWS.java:126) - Documento: 97750155 Encontrado en WS
+ INFO   28 Jul 2019 23:10:16 [http-bio-8080-exec-3]  (ConsultaWS.java:126) - Documento: 97750156 Encontrado en WS
+ INFO   28 Jul 2019 23:10:20 [http-bio-8080-exec-3]  (ConsultaWS.java:126) - Documento: 11556966 Encontrado en WS
+ INFO   28 Jul 2019 23:10:24 [http-bio-8080-exec-3]  (ConsultaWS.java:126) - Documento: 98405267 Encontrado en WS
+ INFO   28 Jul 2019 23:10:28 [http-bio-8080-exec-3]  (ConsultaWS.java:126) - Documento: 98799092 Encontrado en WS
+ INFO   28 Jul 2019 23:10:32 [http-bio-8080-exec-3]  (ConsultaWS.java:126) - Documento: 98799093 Encontrado en WS
+ INFO   28 Jul 2019 23:10:35 [http-bio-8080-exec-3]  (ConsultaWS.java:126) - Documento: 98799094 Encontrado en WS
+ INFO   28 Jul 2019 23:10:39 [http-bio-8080-exec-3]  (ConsultaWS.java:126) - Documento: 98799095 Encontrado en WS
+ INFO   28 Jul 2019 23:10:40 [http-bio-8080-exec-3]  (ConnectionOracle.java:33) - Connection Done successfully
+ INFO   28 Jul 2019 23:10:40 [http-bio-8080-exec-3]  (Pr_BoletasLogInsert.java:38) - Se han insertado nuevos registros de impresión en la BD
+ INFO   28 Jul 2019 23:19:57 [http-bio-8080-exec-2]  (ConsultaWS.java:126) - Documento: 96480541 Encontrado en WS
+ INFO   28 Jul 2019 23:20:06 [http-bio-8080-exec-2]  (ConnectionOracle.java:33) - Connection Done successfully
+ INFO   28 Jul 2019 23:20:07 [http-bio-8080-exec-2]  (Pr_BoletasLogInsert.java:38) - Se han insertado nuevos registros de impresión en la BD
+ INFO   28 Jul 2019 23:23:25 [http-bio-8080-exec-5]  (ConsultaWS.java:126) - Documento: 96480541 Encontrado en WS
+ INFO   28 Jul 2019 23:23:26 [http-bio-8080-exec-5]  (ConnectionOracle.java:33) - Connection Done successfully
+ INFO   28 Jul 2019 23:23:26 [http-bio-8080-exec-5]  (Pr_BoletasLogInsert.java:38) - Se han insertado nuevos registros de impresión en la BD
+ INFO   28 Jul 2019 23:49:32 [http-bio-8080-exec-7]  (ConsultaWS.java:126) - Documento: 96480541 Encontrado en WS
+ INFO   28 Jul 2019 23:49:32 [http-bio-8080-exec-7]  (ConnectionOracle.java:33) - Connection Done successfully
+ INFO   28 Jul 2019 23:49:33 [http-bio-8080-exec-7]  (Pr_BoletasLogInsert.java:38) - Se han insertado nuevos registros de impresión en la BD
+ INFO   28 Jul 2019 23:50:12 [http-bio-8080-exec-9]  (ConsultaWS.java:126) - Documento: 96480541 Encontrado en WS
+ INFO   28 Jul 2019 23:50:12 [http-bio-8080-exec-9]  (ConnectionOracle.java:33) - Connection Done successfully
+ INFO   28 Jul 2019 23:50:12 [http-bio-8080-exec-9]  (Pr_BoletasLogInsert.java:38) - Se han insertado nuevos registros de impresión en la BD
+ INFO   28 Jul 2019 23:51:29 [http-bio-8080-exec-6]  (ConsultaWS.java:126) - Documento: 96480541 Encontrado en WS
+ INFO   28 Jul 2019 23:51:29 [http-bio-8080-exec-6]  (ConnectionOracle.java:33) - Connection Done successfully
+ INFO   28 Jul 2019 23:51:29 [http-bio-8080-exec-6]  (Pr_BoletasLogInsert.java:38) - Se han insertado nuevos registros de impresión en la BD
+ INFO   28 Jul 2019 23:53:02 [http-bio-8080-exec-5]  (ConsultaWS.java:126) - Documento: 96480541 Encontrado en WS
+ INFO   28 Jul 2019 23:53:03 [http-bio-8080-exec-5]  (ConnectionOracle.java:33) - Connection Done successfully
+ INFO   28 Jul 2019 23:53:03 [http-bio-8080-exec-5]  (Pr_BoletasLogInsert.java:38) - Se han insertado nuevos registros de impresión en la BD
+ INFO   28 Jul 2019 23:55:43 [http-bio-8080-exec-1]  (ConsultaWS.java:126) - Documento: 96480541 Encontrado en WS
+ INFO   28 Jul 2019 23:55:44 [http-bio-8080-exec-1]  (ConnectionOracle.java:33) - Connection Done successfully
+ INFO   28 Jul 2019 23:55:44 [http-bio-8080-exec-1]  (Pr_BoletasLogInsert.java:38) - Se han insertado nuevos registros de impresión en la BD
+ INFO   28 Jul 2019 23:56:25 [http-bio-8080-exec-3]  (ConsultaWS.java:126) - Documento: 96480541 Encontrado en WS
+ INFO   28 Jul 2019 23:56:26 [http-bio-8080-exec-3]  (ConnectionOracle.java:33) - Connection Done successfully
+ INFO   28 Jul 2019 23:56:26 [http-bio-8080-exec-3]  (Pr_BoletasLogInsert.java:38) - Se han insertado nuevos registros de impresión en la BD
+ INFO   30 Jul 2019 22:16:14 [http-bio-8080-exec-9]  (ConsultaWS.java:126) - Documento: 96480541 Encontrado en WS
+ INFO   30 Jul 2019 22:16:15 [http-bio-8080-exec-9]  (ConnectionOracle.java:33) - Connection Done successfully
+ INFO   30 Jul 2019 22:16:15 [http-bio-8080-exec-9]  (Pr_BoletasLogInsert.java:38) - Se han insertado nuevos registros de impresión en la BD
